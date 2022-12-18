@@ -1,0 +1,1 @@
+# sage_PRACTICA_6_ESTAD-STICA
